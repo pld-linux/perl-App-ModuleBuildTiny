@@ -4,7 +4,6 @@
 
 %define		pdir	App
 %define		pnam	ModuleBuildTiny
-%include	/usr/lib/rpm/macros.perl
 Summary:	App::ModuleBuildTiny - A standalone authoring tool for Module::Build::Tiny
 Name:		perl-App-ModuleBuildTiny
 Version:	0.010
